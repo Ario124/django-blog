@@ -108,6 +108,10 @@ a, a:hover {
     height: 90px;
 }
 
+.lead {
+    margin-left: 20px;
+}
+
 .label-float {
     margin: 0 auto;
     position: absolute;
